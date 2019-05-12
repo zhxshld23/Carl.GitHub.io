@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Rock climbing
    - Gaming
    - Knitting
-   - [Becoming a ninja](https://www.baidu.com)
+#    - [Becoming a ninja](https://www.baidu.com)
 
 # Footer
 footer_show_references: true
