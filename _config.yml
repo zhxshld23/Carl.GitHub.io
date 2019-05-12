@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: 钟学圣
 title: PM
 email: boyzhxsh@hotmail.com
-phone: 18896606853
+# phone: 18896606853
 
 # Social links
 # twitter_username: facespics
@@ -44,7 +44,6 @@ more_content: | # this will include new lines to allow paragraphs
    - Rock climbing
    - Gaming
    - Knitting
-#    - [Becoming a ninja](https://www.baidu.com)
 
 # Footer
 footer_show_references: true
