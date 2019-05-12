@@ -1,27 +1,27 @@
 # Site
-repository: sproogen/resume-theme
+repository: zhxshld23/Carl.GitHub.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: 钟学圣
+title: PM
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: 钟学圣
+# github_username:  PM
 # dribbble_username: jekyll
-# facebook_username: jekyll
+ facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: 个人介绍
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
