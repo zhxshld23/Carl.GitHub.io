@@ -1,10 +1,10 @@
 # Site
  repository: sproogen/resume-theme
- favicon: images/233.ico
+ favicon: images/23323132.ico
 
 # Personal info
  name: 钟学圣
- title: 个人简历
+ title: 18896606853
  email: boyzhxsh@hotmail.com
  website: https://blog.zhxshld.club/
 
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Rock climbing
    - Gaming
    - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - [Becoming a ninja](https://www.baidu.com)
 
 # Footer
 footer_show_references: true
