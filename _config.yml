@@ -1,5 +1,5 @@
 # Site
-
+repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -10,7 +10,7 @@ website: https://blog.zhxshld.club/
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
