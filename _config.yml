@@ -5,8 +5,8 @@ repository: sproogen/resume-theme
 # Personal info
 name: 钟学圣
 title: PM
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: boyzhxsh@hotmail.com
+phone: ‘18896606853’
 
 # Social links
 # twitter_username: 钟学圣
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: 个人喜好
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
