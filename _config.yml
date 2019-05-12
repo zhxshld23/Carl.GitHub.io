@@ -1,5 +1,5 @@
 # Site
-repository: 
+repository: zhxshld23/Carl.GitHub.io
 # favicon: images/favico232323n.ico
 
 # Personal info
@@ -51,7 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: 
+remote_theme: zhxshld23/Carl.GitHub.io
 
 sass:
   sass_dir: _sass
